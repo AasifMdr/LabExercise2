@@ -1,4 +1,4 @@
 a=15
 b=8
-c=a-b
-print(c)
+sub=a-b
+print(sub)
